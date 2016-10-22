@@ -1,2 +1,3 @@
 # really_borig
-Not named hello Worlstst repository
+Not named hello-world repository
+Well Github sugestst that I write about myself in this public repoitory. A good idea? I don't think so... 
